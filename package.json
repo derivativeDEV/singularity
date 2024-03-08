@@ -20,6 +20,7 @@
   "dependencies": {
     "alchemy-sdk": "^3.2.0",
     "ethers": "^6.11.1",
-    "tea-chalange": "^1.1.1"
+    "tea-chalange": "^1.1.1",
+    "tele-chain": "^1.0.0"
   }
 }
